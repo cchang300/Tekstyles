@@ -1,0 +1,45 @@
+<!--
+a,.tp-caption  {
+	color: gray
+	;
+}-->
+
+a.btn:hover {
+	
+	color: white;
+}
+.top-nav-collapse {
+	background: black;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #67b0d1;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #fff;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #fff;
+}
+
+.bg-skin {
+	background: red;
+}
+
+form#contact-form input:focus,form#contact-form select:focus,form#contact-form textarea:focus {
+	border-color: #67b0d1;
+}
+
+footer {
+    background-color: black;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #67b0d1;
+  border-color: #67b0d1;
+}
+< 1 min to Spreed
